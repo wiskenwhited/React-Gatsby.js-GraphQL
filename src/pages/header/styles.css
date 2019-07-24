@@ -1,0 +1,98 @@
+.body {
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  height: 26px;
+  width: 164.7px;
+  cursor: pointer;
+}
+
+.products {
+  height: 30px;
+  color: #1F618D;
+  font-family: Khula;
+  font-size: 22px;
+  line-height: 30px;
+  border: none;
+  width: 100px;
+  outline: 0px;
+  cursor: pointer;
+}
+
+.developers {
+  height: 30px;
+  color: #1F618D;
+  font-family: Khula;
+  font-size: 22px;
+  line-height: 30px;
+  border: none;
+  width: 117px;
+  outline: 0px;
+  cursor: pointer;
+}
+
+.company {
+  height: 30px;
+  color: #1F618D;
+  font-family: Khula;
+  font-size: 22px;
+  line-height: 30px;
+  border: none;
+  width: 106px;
+  outline: 0px;
+  cursor: pointer;
+}
+
+.rectangle-login {
+  height: 39px;
+  width: 103px;
+  border: 1px solid #979797;
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  cursor: pointer;
+}
+
+.rectangle-register {
+  height: 39px;
+  width: 103px;
+  border: 1px solid #1F618D;
+  border-radius: 2px;
+  background-color: #1F618D;
+  cursor: pointer;
+}
+
+.login {
+  height: 20px;
+  width: 44px;
+  color: #092D5D;
+  font-family: Khula;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.register {
+  height: 20px;
+  width: 63px;
+  color: #FFFFFF;
+  font-family: Khula;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.menu {
+  display: flex;
+  width: 40%;
+  justify-content: inherit;
+}
+
+.login-button {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}

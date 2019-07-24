@@ -1,0 +1,75 @@
+.nick {
+  height: 250px;
+  width: 250px;
+}
+
+.teams-body {
+  margin-top: -100px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.teams-body-image {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  align-items: center;
+}
+
+.teams-name {
+  font-family: Khula;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.teams-role {
+  color: #969696;
+  font-family: Khula;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 27px;
+  text-align: center;
+}
+
+.photo-button {
+  height: 25px;
+  width: 56px;
+  border: 1px solid #1F618D;
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.photo-button-bio {
+  height: 20px;
+  width: 21px;
+  color: #1F618D;
+  font-family: Khula;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.teams-footer {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.teams-footer-menu {
+  color: #979797;
+  font-family: Khula;
+  font-size: 16px;
+  line-height: 22px;
+  cursor: pointer;
+  padding-left: 5%;
+}

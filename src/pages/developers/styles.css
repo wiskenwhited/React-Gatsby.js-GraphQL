@@ -1,0 +1,344 @@
+.cloud {
+  background-image: url("../../assets/images/32e38f767dab240b3d3120f82d804d55c55cf8f4.png");
+  height: 712.16px;
+  margin-top: -40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cloud-title {
+  color: #1F618D;
+  font-family: Khula;
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 60px;
+  margin-bottom: 180px;
+}
+
+.clound-content {
+  color: #535252;
+  font-family: Khula;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  margin-top: -140px;
+}
+
+.data {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.data-image-lock {
+  height: 64px;
+  width: 64px;
+}
+
+.data-history-content {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.data-history {
+  display: flex;
+  width: 40%;
+  padding-top: 34px;
+  background-color: #F7F7F7;
+  justify-content: space-evenly;
+  padding-bottom: 40px;
+}
+
+.data-transparency {
+  display: flex;
+  width: 40%;
+  padding-top: 34px;
+  background-color: #F7F7F7;
+  justify-content: space-evenly;
+  margin-top: 40px;
+  margin-bottom: -40px;
+}
+
+.data-history-content-title {
+  color: #1B1B1B;
+  font-family: Khula;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 43px;
+}
+
+.data-history-content-text {
+  color: #535252;
+  font-family: Khula;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.built-for-both {
+  background-color: #F7F7F7;
+  margin-top: 100px;
+  padding-top: 70px;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.built-for-both-title {
+  color: #1B1B1B;
+  font-family: Khula;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.built-for-both-title-line {
+  box-sizing: border-box;
+  height: 2px;
+  width: 63px;
+  border: 2px solid #1F618D;
+  margin-top: 35px;
+}
+
+.built-for-both-content {
+  width: 750px;
+  color: #535252;
+  font-family: Khula;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.built-for-both-stack {
+  display: flex;
+  width: 95%;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.built-for-both-traditional {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 123px;
+  padding: 1%;
+  width: 45%;
+  border: 1px solid #FFFFFF;
+  background-color: #005499;
+}
+
+.built-for-both-traditional-title {
+  color: #FFFFFF;
+  font-family: Khula;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 27px;
+  text-align: center;
+}
+
+.built-for-both-traditional-content {
+  color: #FFFFFF;
+  font-family: Khula;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.built-for-both-backends {
+  border: 1px solid #FFFFFF;
+  background-color: #005499;
+  height: 80px;
+  color: #FFFFFF;
+  font-family: Khula;
+  font-size: 20px;
+  line-height: 27px;
+  width: 92.5%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.bytenetwork-image {
+  height: 31px;
+  width: 193px;
+}
+
+.image-swarm {
+  height: 75px;
+  width: 60px;
+}
+
+.image-whisper {
+  height: 78px;
+  width: 67px;
+}
+
+.bigchain {
+  height: 40px;
+  width: 200px;
+}
+
+.blockchain-title {
+  color: #1B1B1B;
+  font-family: Khula;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.blockchain-content {
+  color: #535252;
+  font-family: Khula;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+.blockchain-line {
+  box-sizing: border-box;
+  height: 0.5px;
+  width: 60%;
+  border: 1px solid #D8D8D8;
+}
+
+.blockchain-table-header {
+  color: #191C23;
+  font-family: Khula;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  text-align: left;
+  width: 30%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.blockchain-menu {
+  color: #535252;
+  font-family: Khula;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 3%;
+  padding-right: 5%;
+  width: 25%;
+}
+
+.image-check {
+  height: 32px;
+  width: 32px;
+  background-color: #005499;
+  margin-right: 5%;
+}
+
+.image-logo {
+  height: 16.84px;
+  width: 116.97px;
+}
+
+.blockchain {
+  align-items: center;
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.blockchain-content {
+  margin-top: 35px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 50px;
+}
+
+.blockchain-table {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+  padding-top: 20px;
+}
+
+.blockchain-table-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.data-realtime {
+  padding-bottom: 80px;
+}
+
+.useCases {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #F7F7F7;
+  padding-top: 50px;
+}
+
+.useCases-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  padding-left: 20%;
+  padding-top: 50px;
+}
+
+.useCases-block-title {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.useCases-airPlat {
+  height: 49px;
+  width: 49px;
+  margin-left: 2%;
+}
+
+.useCases-block-title-text {
+  color: #1B1B1B;
+  width: 100%;
+  font-family: Khula;
+  font-size: 40px;
+  padding-left: 2%;
+}
+
+.useCases-block-text {
+  color: #535252;
+  font-family: Khula;
+  font-size: 20px;
+  line-height: 27px;
+  margin-top: 30px;
+  padding-right: 20%;
+  padding-bottom: 50px;
+}
+
+.useCases-block-line {
+  box-sizing: border-box;
+  height: 0.5px;
+  width: 80%;
+  border: 2px solid #D8D8D8;
+  margin-bottom: 50px;
+}

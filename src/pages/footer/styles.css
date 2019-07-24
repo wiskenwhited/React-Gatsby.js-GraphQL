@@ -1,0 +1,105 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.footer-products {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-developers {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-company {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-connect {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-signup {
+  display: flex;
+  flex-direction: column;
+}
+
+.products-products {
+  height: 27px;
+  width: 104px;
+  color: #454545;
+  font-family: Khula;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0.9px;
+  line-height: 27px;
+}
+
+.products-framework {
+  color: #004CA5;
+  font-family: Khula;
+  font-size: 19px;
+  letter-spacing: 0.96px;
+  line-height: 26px;
+  cursor: pointer;
+}
+
+.products-framework-span {
+  margin-top: 17px;
+  color: #004CA5;
+  font-family: Khula;
+  font-size: 19px;
+  letter-spacing: 0.96px;
+  line-height: 26px;
+  cursor: pointer;
+}
+
+.signup-text {
+  color: #454545;
+  font-family: Khula;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1.01px;
+  line-height: 27px;
+}
+
+.signup-form {
+  margin-top: 42px;
+}
+
+.signup-input {
+  height: 39px;
+  width: 224px;
+  border: 1px solid #DADADA;
+  border-radius: 2px;
+  padding: 3.5px 3.5px 3.5px 8px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.signup-form-button {
+  height: 47px;
+  width: 103px;
+  border: 1px solid #1F618D;
+  border-radius: 2px;
+  background-color: #1F618D;
+  cursor: pointer;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.signup-form-button-text {
+  height: 20px;
+  width: 56px;
+  color: #FFFFFF;
+  font-family: Khula;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+}
